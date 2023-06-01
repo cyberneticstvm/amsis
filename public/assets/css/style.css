@@ -16083,7 +16083,7 @@ header.header-one .header-top-wrapper .right ul li.last::after {
 }
 .header-seven .header-main {
   padding: 0 35px;
-  background: #fff;
+  /*background: #fff;*/
   margin-bottom: 20px;
   display: flex;
   align-items: center;

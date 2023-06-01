@@ -255,11 +255,11 @@
                                 <h6 class="title">Useful Links</h6>
                                 <div class="pages">
                                     <ul>
-                                        <li><a href="about.html"><i class="fa-solid fa-arrow-right"></i> About Us</a></li>
-                                        <li><a href="project.html"><i class="fa-solid fa-arrow-right"></i> Our Projects</a></li>
-                                        <li><a href="service.html"><i class="fa-solid fa-arrow-right"></i>Our Services</a></li>
-                                        <li><a href="team.html"><i class="fa-solid fa-arrow-right"></i> Our Team</a></li>
-                                        <li><a href="contact.html"><i class="fa-solid fa-arrow-right"></i> Contact Us</a></li>
+                                        <li><a href="/about"><i class="fa-solid fa-arrow-right"></i> About Us</a></li>
+                                        <li><a href="/services"><i class="fa-solid fa-arrow-right"></i> Services</a></li>
+                                        <li><a href="/sustainability"><i class="fa-solid fa-arrow-right"></i>Sustainability</a></li>
+                                        <li><a href="/careers"><i class="fa-solid fa-arrow-right"></i> Careers</a></li>
+                                        <li><a href="/contact"><i class="fa-solid fa-arrow-right"></i> Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -269,24 +269,26 @@
                                 <h6 class="title">What We Do</h6>
                                 <div class="pages">
                                     <ul>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i> Cleaning Service</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i> Plumbing Service</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Roofing Services</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Electrical Service</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i> Air Conditionar</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Operations, installation & maintenences.</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Spares management</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Project financing</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Water & waste solutions</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Steam engineering</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Boiler and heat services</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Cooling services</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="single-footer-wized-two newsletter" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                             <div class="footer-header-two newsletter">
-                                <h6 class="title">Newsletter</h6>
+                                <h6 class="title">Request Callback</h6>
                                 <p class="letters">
-                                    Aplications prodize before front end ortals visualize front end
+                                    Please drop your mobile number and our executive will reach out you shortly.
                                 </p>
                                 <form class="subscribe-2-footer">
-                                    <input type="email" required placeholder="Email Address">
-                                    <button class="rts-btn btn-primary">Subscribe Now</button>
+                                    <input type="text" required placeholder="Mobile Number">
+                                    <button class="rts-btn btn-primary">Request Callback</button>
                                 </form>
                             </div>
                         </div>
@@ -295,52 +297,6 @@
                 </div>
             </div>
         </div>
-        <div class="menu-row-wrapper mt--80">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="menu-wrapper-footer-row">
-                            <!-- single menu wrapper -->
-                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="about.html">About Us</a>
-                            </div>
-                            <!-- single menu wrapper end -->
-                            <!-- single menu wrapper -->
-                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="project.html">Projects</a>
-                            </div>
-                            <!-- single menu wrapper end -->
-                            <!-- single menu wrapper -->
-                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="safety.html">Updates</a>
-                            </div>
-                            <!-- single menu wrapper end -->
-                            <!-- single menu wrapper -->
-                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="vision.html">Mission</a>
-                            </div>
-                            <!-- single menu wrapper end -->
-                            <!-- single menu wrapper -->
-                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="blog-list.html">Inside</a>
-                            </div>
-                            <!-- single menu wrapper end -->
-                            <!-- single menu wrapper -->
-                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="contact.html">Contact</a>
-                            </div>
-                            <!-- single menu wrapper end -->
-                            <!-- single menu wrapper -->
-                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="company-story.html">History</a>
-                            </div>
-                            <!-- single menu wrapper end -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
 
         <!-- copy right area start -->
         <div class="copyright-area">
@@ -369,105 +325,6 @@
         </svg>
     </div>
     <!-- progress area end -->
-
-    <!-- cart area start -->
-    <div class="cart-bar">
-        <div class="cart-header">
-            <h3 class="cart-heading">MY CART (3 ITEMS)</h3>
-            <div class="close-cart"><i class="fal fa-times"></i></div>
-        </div>
-        <div class="product-area">
-            <div class="product-item">
-                <div class="product-detail">
-                    <div class="product-thumb"><img src="assets/images/slider/image1.jpg" alt="product-thumb"></div>
-                    <div class="item-wrapper">
-                        <span class="product-name">Construct Map</span>
-                        <div class="item-wrapper">
-                            <span class="product-variation"><span class="color">Green /</span>
-                            <span class="size">XL</span></span>
-                        </div>
-                        <div class="item-wrapper">
-                            <span class="product-qnty">3 ×</span>
-                            <span class="product-price">$198.00</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="cart-edit">
-                    <div class="quantity-edit">
-                        <button class="button"><i class="fal fa-minus minus"></i></button>
-                        <input type="text" class="input" value="3">
-                        <button class="button plus">+<i class="fal fa-plus plus"></i></button>
-                    </div>
-                    <div class="item-wrapper d-flex mr--5 align-items-center">
-                        <a href="#" class="product-edit"><i class="fal fa-edit"></i></a>
-                        <a href="#" class="delete-cart"><i class="fal fa-times"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="product-item">
-                <div class="product-detail">
-                    <div class="product-thumb"><img src="assets/images/slider/image2.jpg" alt="product-thumb"></div>
-                    <div class="item-wrapper">
-                        <span class="product-name"> Bridge product</span>
-                        <div class="item-wrapper">
-                            <span class="product-variation"><span class="color">Green /</span>
-                            <span class="size">XL</span></span>
-                        </div>
-                        <div class="item-wrapper">
-                            <span class="product-qnty">2 ×</span>
-                            <span class="product-price">$88.00</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="cart-edit">
-                    <div class="quantity-edit">
-                        <button class="button"><i class="fal fa-minus minus"></i></button>
-                        <input type="text" class="input" value="2">
-                        <button class="button plus">+<i class="fal fa-plus plus"></i></button>
-                    </div>
-                    <div class="item-wrapper d-flex mr--5 align-items-center">
-                        <a href="#" class="product-edit"><i class="fal fa-edit"></i></a>
-                        <a href="#" class="delete-cart"><i class="fal fa-times"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="product-item last-child">
-                <div class="product-detail">
-                    <div class="product-thumb"><img src="assets/images/slider/image5.jpg" alt="product-thumb"></div>
-                    <div class="item-wrapper">
-                        <span class="product-name">Labour helmet</span>
-                        <div class="item-wrapper">
-                            <span class="product-variation"><span class="color">Green /</span>
-                            <span class="size">XL</span></span>
-                        </div>
-                        <div class="item-wrapper">
-                            <span class="product-qnty">1 ×</span>
-                            <span class="product-price">$289.00</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="cart-edit">
-                    <div class="quantity-edit">
-                        <button class="button"><i class="fal fa-minus minus"></i></button>
-                        <input type="text" class="input" value="2">
-                        <button class="button plus">+<i class="fal fa-plus plus"></i></button>
-                    </div>
-                    <div class="item-wrapper d-flex mr--5 align-items-center">
-                        <a href="#" class="product-edit"><i class="fal fa-edit"></i></a>
-                        <a href="#" class="delete-cart"><i class="fal fa-times"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="cart-bottom-area">
-            <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
-            FOR FREE SHIPPING</span>
-            <span class="total-price">TOTAL: <span class="price">$556</span></span>
-            <a href="checkout.html" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
-            <a href="cart.html" class="view-btn cart-btn">VIEW CART</a>
-        </div>
-    </div>
-    <!-- cart area edn -->
 
     <div class="search-input-area">
         <div class="container">
