@@ -131,8 +131,7 @@
                         <h2 class="title">We Build for Your Comfort</h2>
                     </div>
                     <p class="disc-1">
-                        Our comprehensive technologies, products and services, enable our multidisciplinary teams of experts to cater to Industries, Institutions, Municipalities, Communities, and Homes.<br/>
-                        we serve our markets with a sustained focus on customer satisfaction, technological innovation and dedicated service.<br/>
+                        Our comprehensive technologies, products and services, enable our multidisciplinary teams of experts to cater to Industries, Institutions, Municipalities, Communities and Homes.<br />
                         Our capability to deliver comprehensive solutions with complete technical support makes us a partner to depend on.
                     </p>
                     <div class="contacta-area mt--40 mt_sm--20">
@@ -154,6 +153,38 @@
         </div>
     </div>
 </div>
+<div class="service-abot-area sustain safety">
+    <div class="container">
+        <div class="row align-items-center two">
+            <div class="col-xl-5 col-lg-5">
+                <div class="service-about-wrapper">
+                    <div class="title-three-left">
+                        <span class="pre-title sal-animate" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
+                            Channel Partner
+                        </span>
+                        <h3 class="title animated fadeIn sal-animate" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
+                            Thermax
+                        </h3>
+                        <p>AMSIS is an authorized Thermax channel partner for the entire Kerala region, for "Water and Waste Water Solutions".</p>
+
+                        <p>Thermax is an Indian multinational company, involved in clean air, clean energy and clean water, headquartered in Pune, Maharashtra.</p>
+
+                        <p>We have many types of STPs, RO plants, Filters, Softeners, Ultrafiltration units, Demineralization units, ETPs, etc., which have been designed as per advanced technologies and are being used in the industry. A wide range of Modularised, Most Compact (with reduced area and height), and Automated products are available, which are in complete compliance with Safety Norms and PCB Norms. The products are of aesthetically new age design, with silent operation and ensure consistent quality of treated water.</p>
+                        <div class="button-area"><a href="https://www.thermaxglobal.com/" class="rts-btn btn-primary" target="_blank">Learn More</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-7 col-lg-7 plr-sm">
+                <div class="thumbnail thumbnail-service-about">
+                    <div class="reveal-item overflow-hidden aos-init">
+                        <div class="reveal-animation reveal-end reveal-primary aos aos-init aos-animate" data-aos="reveal-end"></div>
+                        <img src="{{ asset('assets/images/about/thermax.png') }}" alt="Thermax Logo">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="rts-about-area">
     <div class="container">
         <div class="row">
@@ -169,11 +200,11 @@
                         </div>
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check"></i>
-                            <p>To provide best technical support and equipment.</p>
+                            <p>To provide best technical support and equipments.</p>
                         </div>
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check"></i>
-                            <p>To make AMSIS the place of choice to start career, stay and to grow with.</p>
+                            <p>To make AMSIS the place of choice to start career, stay and grow with.</p>
                         </div>
                     </div>
                 </div>

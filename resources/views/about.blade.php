@@ -9,7 +9,7 @@
                     <div class="title-area">
                         <h2 class="title">About Us</h2>
                     </div>
-                    
+
                 </div>
             </div>
             <div class="row">
@@ -33,8 +33,8 @@
                             <h2 class="title">We Build for Your Comfort</h2>
                         </div>
                         <p class="disc-1">
-                            Our comprehensive technologies, products and services, enable our multidisciplinary teams of experts to cater to Industries, Institutions, Municipalities, Communities, and Homes.<br/>
-                            we serve our markets with a sustained focus on customer satisfaction, technological innovation and dedicated service.<br/>
+                            Our comprehensive technologies, products and services, enable our multidisciplinary teams of experts to cater to Industries, Institutions, Municipalities, Communities, and Homes.<br />
+                            We serve our markets with a sustained focus on customer satisfaction, technological innovation and dedicated service.<br />
                             Our capability to deliver comprehensive solutions with complete technical support makes us a partner to depend on.
                         </p>
                         <div class="contacta-area mt--40 mt_sm--20">

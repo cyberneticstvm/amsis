@@ -40,7 +40,7 @@
                         <div class="end-top">
                             <div class="single-info">
                                 <div class="icon"><i class="fa-thin fa-location-dot"></i> </div>
-                                <p>Kunnicode, Kollam, Kerala - 691508</p>
+                                <p>Opposite to Avaneeswaram Railway Station, Kollam, Kerala - 691508</p>
                             </div>
                             <div class="single-info">
                                 <div class="icon"><i class="fa-regular fa-envelope"></i></div>
@@ -239,7 +239,7 @@
                         <div class="single-footer-wized-two logo-area" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                             <h6 class="title">About Company</h6>
                             <p class="disc-f">
-                            Our comprehensive technologies, products and services, enable our multidisciplinary teams of experts to cater to Industries, Institutions, Municipalities, Communities, and Homes.
+                                Our comprehensive technologies, products and services, enable our multidisciplinary teams of experts to cater to Industries, Institutions, Municipalities, Communities, and Homes.
                             </p>
                             <div class="rts-social-wrapper-three">
                                 <ul>
@@ -269,13 +269,11 @@
                                 <h6 class="title">What We Do</h6>
                                 <div class="pages">
                                     <ul>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Operations, installation & maintenences.</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Operations, installations & maintenances.</a></li>
                                         <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Spares management</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Project financing</a></li>
                                         <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Water & waste solutions</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Steam engineering</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Boiler and heat services</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Cooling services</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Inspection, Training, and Engineering Services</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Trading</a></li>
                                     </ul>
                                 </div>
                             </div>

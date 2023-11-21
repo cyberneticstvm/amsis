@@ -8,7 +8,7 @@
                 <div class="about-eight-content-main-wrapper">
                     <div class="title-area">
                         <h2 class="title">Contact Us</h2>
-                    </div>                    
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -65,7 +65,7 @@
                             <div class="info">
                                 <span>Address</span>
                                 <a href="#">
-                                    <h5>AMSIS, Kunnicode, Kollam, Kerala - 691508</h5>
+                                    <h5>AMSIS, Opposite to Avaneeswaram Railway Station, Kollam, Kerala - 691508</h5>
                                 </a>
                             </div>
                         </div>
@@ -77,7 +77,7 @@
                 <div class="mian-wrapper-form">
                     <div class="title-mid-wrapper-home-two sal-animate" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                         <span class="pre">Get In Touch</span>
-                        <h2 class="title">Needs Help? Let’s Get in Touch</h2>
+                        <h2 class="title">Need Help? Let's Get in Touch</h2>
                     </div>
                     <div id="form-messages"></div>
                     <form id="contact-form" class="contact-form-contact" action="mailer.php" method="post">
