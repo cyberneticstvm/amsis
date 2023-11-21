@@ -172,7 +172,7 @@
                         <img src='{{ asset("assets/images/service/amsis/Picture$i.svg") }}' alt="service">
                     </a>
                 </div>
-                <!-- single offer area end -->
+                <!-- single offer area end --->
         </div>
         @endfor
     </div>
