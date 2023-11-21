@@ -12,10 +12,10 @@
 
     <h1>Amsis India Website Contact Form has Submitted.</h1>
 
-    <p>{{ $contactData->name }}</p>
-    <p>{{ $contactData->email }}</p>
-    <p>{{ $contactData->subject }}</p>
-    <p>{{ $contactData->message }}</p>
+    <p>Name: {{ $contactData->name }}</p>
+    <p>Email: {{ $contactData->email }}</p>
+    <p>Subject: {{ $contactData->subject }}</p>
+    <p>Message: {{ $contactData->message }}</p>
 
 </body>
 

@@ -79,7 +79,18 @@
                         <span class="pre">Get In Touch</span>
                         <h2 class="title">Need Help? Let's Get in Touch</h2>
                     </div>
-                    <div id="form-messages"></div>
+                    <div id="form-message">
+                        @if(session()->has('success'))
+                        <div class="alert alert-success">
+                            {{ session()->get('success') }}
+                        </div>
+                        @endif
+                        @if(session()->has('error'))
+                        <div class="alert alert-danger">
+                            {{ session()->get('error') }}
+                        </div>
+                        @endif
+                    </div>
                     <form id="contact-form" class="contact-form-contact" action="{{ route('send.contact.email') }}" method="post">
                         @csrf
                         <div class="name-email">

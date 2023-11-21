@@ -16,7 +16,7 @@ class MailController extends Controller
             'subject' => 'required',
             'message' => 'required',
         ]);
-        Mail::to('contact@ehms.care')->send(new ContactMail($request));
-        dd("Email sent successfully");
+        Mail::to('mva@amsisindia.com')->send(new ContactMail($request));
+        return redirect()->back()->with("success", "Your message has been sent successfully!");
     }
 }
