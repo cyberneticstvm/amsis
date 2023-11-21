@@ -81,6 +81,7 @@
                     </div>
                     <div id="form-messages"></div>
                     <form id="contact-form" class="contact-form-contact" action="{{ route('send.contact.email') }}" method="post">
+                        @csrf
                         <div class="name-email">
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email Address" required="">
