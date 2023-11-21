@@ -80,7 +80,7 @@
                         <h2 class="title">Need Help? Let's Get in Touch</h2>
                     </div>
                     <div id="form-messages"></div>
-                    <form id="contact-form" class="contact-form-contact" action="mailer.php" method="post">
+                    <form id="contact-form" class="contact-form-contact" action="{{ route('send.contact.email') }}" method="post">
                         <div class="name-email">
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email Address" required="">

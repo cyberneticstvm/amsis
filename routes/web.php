@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\MailController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -31,4 +32,4 @@ Route::get('/careers', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-
+Route::post('send-contact-mail', [MailController::class, 'contact'])->name('send.contact.email');
