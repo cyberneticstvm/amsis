@@ -40,7 +40,7 @@
                         <div class="end-top">
                             <div class="single-info">
                                 <div class="icon"><i class="fa-thin fa-location-dot"></i> </div>
-                                <p>Opposite to Avaneeswaram Railway Station, Kollam, Kerala - 691508</p>
+                                <p>Registered Office: Opposite to Avaneeswaram Railway Station, Kollam, Kerala - 691508</p>
                             </div>
                             <div class="single-info">
                                 <div class="icon"><i class="fa-regular fa-envelope"></i></div>
@@ -226,7 +226,7 @@
                         </div>
                         <div class="info">
                             <span>Office Address</span>
-                            <a href="#">Kunnicode, Kollam, Kerala - 691508</a>
+                            <a href="#">Opposite to Avaneeswaram Railway Station, Kollam, Kerala - 691508</a>
                         </div>
                         <!-- single fil footer eight end -->
                     </div>
