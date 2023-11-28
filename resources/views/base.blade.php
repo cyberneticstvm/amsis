@@ -280,14 +280,22 @@
                         </div>
                         <div class="single-footer-wized-two newsletter" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                             <div class="footer-header-two newsletter">
-                                <h6 class="title">Request Callback</h6>
+                                <h6 class="title">Branches</h6>
                                 <p class="letters">
-                                    Please drop your mobile number and our executive will reach out you shortly.
+                                    Plot No. 1002, 10th Floor<br />
+                                    Oceanus Sunshine, Phase 2<br />
+                                    Kulathoor, Trivandrum - 695583
                                 </p>
-                                <form class="subscribe-2-footer">
-                                    <input type="text" required placeholder="Mobile Number">
-                                    <button class="rts-btn btn-primary">Request Callback</button>
-                                </form>
+                                <p class="letters">
+                                    Sangameswara Shopping Complex<br />
+                                    22/83, Opposite Private Bus Stand<br />
+                                    Nada, Irinjalakkuda, Thrissur - 680121
+                                </p>
+                                <p class="letters">
+                                    Building #1404<br />
+                                    Sagar, Nadal<br />
+                                    Edakkad, Kannur - 670663
+                                </p>
                             </div>
                         </div>
                     </div>

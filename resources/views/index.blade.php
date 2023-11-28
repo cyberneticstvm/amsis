@@ -13,8 +13,6 @@
                             <div class="col-12">
                                 <!-- banner eight area start -->
                                 <div class="banner-eight-start ptb--90">
-                                    <span>Hospitality & Leisure
-                                    </span>
                                     <h1 class="title">Quality Work <br>
                                         & Comparative <br>
                                         Price Range</h1>
@@ -45,8 +43,6 @@
                             <div class="col-12">
                                 <!-- banner eight area start -->
                                 <div class="banner-eight-start ptb--90">
-                                    <span>Hospitality & Leisure
-                                    </span>
                                     <h1 class="title">Quality Work <br>
                                         & Comparative <br>
                                         Price Range</h1>
@@ -77,8 +73,6 @@
                             <div class="col-12">
                                 <!-- banner eight area start -->
                                 <div class="banner-eight-start ptb--90">
-                                    <span>Hospitality & Leisure
-                                    </span>
                                     <h1 class="title">Quality Work <br>
                                         & Comparative <br>
                                         Price Range</h1>
@@ -159,9 +153,9 @@
             <div class="col-xl-5 col-lg-5">
                 <div class="service-about-wrapper">
                     <div class="title-three-left">
-                        <span class="pre-title sal-animate" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
+                        <!--<span class="pre-title sal-animate" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
                             Channel Partner
-                        </span>
+                        </span>-->
                         <h3 class="title animated fadeIn sal-animate" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
                             Thermax
                         </h3>
