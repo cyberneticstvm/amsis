@@ -91,7 +91,7 @@
                         </div>
                         @endif
                     </div>
-                    <form class="contact-form-contact" action="{{ route('send.contact.email') }}" method="post">
+                    <!--<form class="contact-form-contact" action="{{ route('send.contact.email') }}" method="post">
                         @csrf
                         <div class="name-email">
                             <input type="text" name="name" placeholder="Full Name" required="">
@@ -100,7 +100,7 @@
                         <input type="text" name="subject" placeholder="Your Subject">
                         <textarea placeholder="Type Your Message" name="message"></textarea>
                         <button type="submit" class="rts-btn btn-primary">Send Message</button>
-                    </form>
+                    </form>-->
                 </div>
             </div>
         </div>
