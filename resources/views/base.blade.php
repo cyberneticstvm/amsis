@@ -52,7 +52,7 @@
                     <div class="header-main">
                         <div class="logo-area">
                             <a href="/" class="logo">
-                                <img src="{{ asset('assets/images/logo/logo-amsis.jpg') }}" alt="logo-amsis">
+                                <img src="{{ asset('assets/images/logo/amsis-logo.png') }}" alt="logo-amsis" width="50%">
                             </a>
                         </div>
                         <div class="menu-area-start">
@@ -87,7 +87,7 @@
                         </div>
                         <div class="right-area">
                             <div class="menu-area ml--30 ml_md--15 ml_sm--10" id="menu-btn">
-                                <svg width="29" height="28" viewBox="0 0 29 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <!--<svg width="29" height="28" viewBox="0 0 29 28" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0 0H5V6H0V0Z" fill="#D9D9D9" />
                                     <path d="M0 11H5V17H0V11Z" fill="#D9D9D9" />
                                     <path d="M0 22H5V28H0V22Z" fill="#D9D9D9" />
@@ -97,7 +97,7 @@
                                     <path d="M12 22H17V28H12V22Z" fill="#D9D9D9" />
                                     <path d="M24 11H29V17H24V11Z" fill="#D9D9D9" />
                                     <path d="M24 22H29V28H24V22Z" fill="#D9D9D9" />
-                                </svg>
+                                </svg>-->
                             </div>
                         </div>
                     </div>
@@ -269,11 +269,10 @@
                                 <h6 class="title">What We Do</h6>
                                 <div class="pages">
                                     <ul>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Operations, installations & maintenances.</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Spares management</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Water & waste solutions</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Inspection, Training, and Engineering Services</a></li>
-                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Trading</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Water and Wastewater Division:</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Engineering Trading</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Inspection, Engineering and Training Services</a></li>
+                                        <li><a href="#"><i class="fa-solid fa-arrow-right"></i>Renewable Energy</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -282,7 +281,7 @@
                             <div class="footer-header-two newsletter">
                                 <h6 class="title">Branches</h6>
                                 <p class="letters">
-                                    Plot No. 1002, 10th Floor<br />
+                                    Flat No. 1002, 10th Floor<br />
                                     Oceanus Sunshine, Phase 2<br />
                                     Kulathoor, Trivandrum - 695583
                                 </p>
